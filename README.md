@@ -3,7 +3,7 @@ regexcrosswordbruteforcer
 
 Brute force utility for winning the internet at http://regexcrossword.com!
 
-This was written to beat the puzzle "An Ambiguous Puzzle" under the player submitted puzzles.  It does not actually use any regexes in the solution, however it does use the knowledge that the puzzle says that any character cannot be repeated in any column or row that it is in.
+This was written to beat the puzzle "An Ambiguous Puzzle" under the player submitted puzzles.  It does not actually use any regexes in the solution, however it does use the knowledge that the puzzle says that any character cannot be repeated in any column or row that it is in.  There are 161280 solutions to the ambiguous puzzle, so obviously it is not easily human solvable.
 
 In order to use this, you'll need to install CasperJS which can be found here:
 
