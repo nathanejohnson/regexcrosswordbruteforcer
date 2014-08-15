@@ -1,0 +1,6 @@
+{ "user": "",
+    "pass": "",
+    "puzzle_id": "",
+    "baseUrl": "http://regexcrossword.com",
+    "facebookSigninUrl": "https://www.facebook.com/login.php?skip_api_login=1&api_key=416105278477663&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv1.0%2Fdialog%2Foauth%3Fredirect_uri%3Dhttp%253A%252F%252Fstatic.ak.facebook.com%252Fconnect%252Fxd_arbiter%252FFX-Xf5fQjUk.js%253Fversion%253D41%2523cb%253Df1ccd5e794%2526domain%253Dregexcrossword.com%2526origin%253Dhttp%25253A%25252F%25252Fregexcrossword.com%25252Ffe27598f4%2526relation%253Dopener%2526frame%253Df1e029c0bc%26display%3Dpopup%26scope%3Dpublish_actions%26response_type%3Dtoken%252Csigned_request%26domain%3Dregexcrossword.com%26client_id%3D416105278477663%26ret%3Dlogin%26sdk%3Djoey&cancel_uri=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter%2FFX-Xf5fQjUk.js%3Fversion%3D41%23cb%3Df1ccd5e794%26domain%3Dregexcrossword.com%26origin%3Dhttp%253A%252F%252Fregexcrossword.com%252Ffe27598f4%26relation%3Dopener%26frame%3Df1e029c0bc%26error%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26e2e%3D%257B%257D&display=popup"    
+}

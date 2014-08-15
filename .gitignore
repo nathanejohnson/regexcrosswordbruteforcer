@@ -1,0 +1,12 @@
+.settings/
+*.komodoproject
+.DS_Store
+._*
+.svn
+.hg
+.*.swp
+.buildpath
+.project
+permutations2d.txt
+bruteforcer.config.js
+solutionsIndex.txt
